@@ -1,3 +1,4 @@
+![Screenshot_٢٠٢٣٠٦٠١-٠٠١٦٤٠_Files by Google](https://github.com/18F/identity-dev-docs/assets/101663296/32bde10a-2382-487f-ad03-747be250396f)
 ---
 title: Welcome to the Login.gov developer guide
 lead: >
